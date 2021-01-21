@@ -7,8 +7,8 @@ export default function Home() {
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main>
-        <h1>Hello</h1>
+      <main className="container mx-auto">
+        <h1 className="font-bold text-4xl text-blue-700">Hello</h1>
       </main>
     </div>
   );
